@@ -1,4 +1,4 @@
-uname -a
+uname -a #
 lscpu
 free -h
 df -h
