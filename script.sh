@@ -1,5 +1,5 @@
 echo "Hola linux" > archivo.txt #se usa para mostrar o imprimir el texto en la terminal debe ser escrito lo que queremos entre comillas y > nos ayuda a redireccionar el texto al archivo que pusimos despues en mi caso el archivo.txt
-cat archivo.txt #
-cp archivo.txt copia.txt
-ls -l
-rm archivo.txt
+cat archivo.txt #el comando cat nos sirve para mostrar, unir o leer archivo en este caso se podria decir que cat lee el archivo previo en est¿te caso archivo.txt
+cp archivo.txt copia.txt #El comando cp es basicamente copiar archivos o carpetas en este caso modificamos el archivo txt para pasae a nombrarlo como copia txt
+ls -l #el comando ls nos ayuda a listar archivos  y carpetas en mi caso archivos y -l es una opcion por asi decirlo para que la informacion sea mas larga o detallada.
+rm archivo.txt #rm nos sirve para eliminar archivos o carpetas segun lo que indiquemos.
